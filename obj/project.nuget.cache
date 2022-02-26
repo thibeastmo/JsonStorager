@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "B5QCaMLjFwUOlBBRPUCKm4c9+NYjViu8zygAfN6XVpztibzwbbN5nu+o/Vk0Dkuw7uKnqUMVL1vMsqOAepiHpA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\thimo\\Documents\\Mijn projecten\\JsonStorager\\JsonStorager.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\thimo\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.19\\microsoft.netcore.app.host.win-x64.3.1.19.nupkg.sha512"
+  ],
+  "logs": []
+}

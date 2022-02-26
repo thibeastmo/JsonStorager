@@ -1,0 +1,3 @@
+POST https://localhost:44353/userrelations
+Accept: application/json
+Content-Type: text/plain
